@@ -39,7 +39,8 @@ The goal is to identify top-performing regions, categories, products, and custom
 
 
 ## Dashboard Preview
-![Superstore Sales Performance Dashboard](powerbi/dashboard_screenshot.png)
+![Superstore Sales Performance Dashboard] 
+https://github.com/Thissnate/Data-Analytics-Projects/blob/main/01-sales-performance-analysis/Power%20BI/Sample_superstore_sales_dashboard.jpg
 
 ## How to Explore This Project
 1. Review the cleaned data in the `data` folder.
