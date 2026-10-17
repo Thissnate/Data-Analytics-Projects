@@ -32,10 +32,10 @@ The goal is to identify top-performing regions, categories, products, and custom
 
 ## Project Structure
 01-sales-performance-analysis/
-├── data/                  → Cleaned Superstore dataset
-├── sql/                   → SQL analysis queries
-├── powerbi/               → Power BI dashboard (.pbix file + screenshot)
-└── README.md
+data/                  → Cleaned Superstore dataset
+sql/                   → SQL analysis queries
+powerbi/               → Power BI dashboard (.pbix file + screenshot) 
+README.md
 
 
 ## Dashboard Preview
