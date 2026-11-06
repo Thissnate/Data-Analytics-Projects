@@ -6,7 +6,7 @@ Welcome! This repository contains my data analytics projects as I build practica
 Pharmacy Assistant currently building skills in data analytics.  
 Open to freelance and remote opportunities.
 
-**Name:** Oghenyerhovwo Oruma  
+**Name:** Oghenenyerhovwo Oruma  
 **GitHub:** [Thissnate](https://github.com/Thissnate)
 
 ## Skills
