@@ -38,5 +38,5 @@ It explores box office success, return on investment (ROI), critical ratings, Ac
 ![Pixar Films Performance Dashboard](powerbi/Pixar_films_performance_dashboard.jpg)
 
 ## Author
-**Oghenyerhovwo Oruma**  
+**Oghenenyerhovwo Oruma**  
 GitHub: [Thissnate](https://github.com/Thissnate)
