@@ -47,7 +47,7 @@ Analyzed the performance of 28 Pixar films, focusing on box office results, retu
 
 ---
 
-### 3. [Spotify Streaming History Analysis](./spotify-streaming-analysis)
+### 3. [Spotify Streaming Analysis](./spotify-streaming-analysis)
 **Tools:** Excel, SQL Server, Power BI  
 
 Analyzed 11+ years of personal Spotify streaming history (148,675 streams) to uncover listening habits, top artists & tracks, skip behaviour, platform usage, and discovery vs loyalty patterns.
