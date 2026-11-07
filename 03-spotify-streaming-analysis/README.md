@@ -23,6 +23,8 @@ It explores listening habits, top artists & tracks, skip behaviour, platform usa
 - Filled nulls in `reason_start` and `reason_end`
 - Added helper columns (`minutes_played`, `hours_played`, `year`, `month`, `hour`, `day_of_week`)
 
+**Note:** The original raw Excel file was not uploaded due to its large size. Only the data dictionary and cleaned CSV are included in this repository.
+
 ## Tools Used
 - Excel / Power Query → Data cleaning
 - SQL Server → Data analysis
